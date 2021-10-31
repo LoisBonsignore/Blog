@@ -1,0 +1,12 @@
+#form {
+    margin: 4vh;
+    display: flex;
+    justify-content: center;
+    border: solid 4px rgb(70, 70, 70);
+    padding: 1vh;
+    background-color: whitesmoke;
+}
+
+input {
+    margin: 1vh;
+}

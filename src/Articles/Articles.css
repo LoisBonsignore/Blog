@@ -1,0 +1,31 @@
+h2 {
+    color: rgb(70, 70, 70);
+  }
+  
+  p {
+    margin-left: 3vw;
+    margin-right: 3vw;
+  }
+  
+  #photo-amsterdam {
+    margin: auto;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    width: 20vw;
+    border: solid 4px rgb(70, 70, 70);
+    border-radius: 10px;
+  }
+
+  .article-container {
+    border: solid 4px rgb(70, 70, 70);
+    margin-top: 10vh;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    background-color: whitesmoke;
+    display: inline-block;
+    width: 25vw;
+    align-content: center;
+  }
+  button {
+      justify-content: center;
+  }

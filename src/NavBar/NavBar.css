@@ -1,0 +1,20 @@
+.navBar-container {
+    background-color: rgb(70, 70, 70);
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 5vh;
+  }
+  
+.navBar-menu {
+  display: flex;
+  width: 40vw;
+  justify-content: space-evenly ;
+  color: white;
+  
+}
+
+.text-menu {
+  color: white;
+}
