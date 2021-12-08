@@ -9,8 +9,8 @@ h2 {
   
   #photo-amsterdam {
     margin: auto;
-    margin-top: 5vh;
-    margin-bottom: 5vh;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
     width: 20vw;
     border: solid 4px rgb(70, 70, 70);
     border-radius: 10px;
@@ -18,13 +18,22 @@ h2 {
 
   .article-container {
     border: solid 4px rgb(70, 70, 70);
-    margin-top: 10vh;
+    margin-top: 2vh;
     margin-left: 2vw;
     margin-right: 2vw;
+    margin-bottom: 2vh;
     background-color: whitesmoke;
-    display: inline-block;
+    display: flex;
+    flex-direction: column;
     width: 25vw;
-    align-content: center;
+    align-items: center;
+    justify-content: center;
+    line-height: 120%;
+  }
+  .general-article-container {
+    display: flex;
+    justify-content: center;
+
   }
   button {
       justify-content: center;
